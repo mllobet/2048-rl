@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# network weights
+*.h5f
+
 # Distribution / packaging
 .Python
 env/
